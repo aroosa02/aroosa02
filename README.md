@@ -92,7 +92,7 @@ me:
 <b>pretty in python</b>
 </td>
 <td align="center" width="33%">
-<img src="assets/sticker%20headphones%20black%20_%20Me%2C%20when%20someone%20starts%20to%20move%20the%20things%20I%27m%20putting%20in%20there%20hous.jpg" width="150"/><br/>
+<img src="assets/cat.jpg" width="150"/><br/>
 <b>me when someone touches my carefully organized chaos 😾</b>
 </td>
 <td align="center" width="33%">
@@ -164,7 +164,7 @@ me:
 
 </div>
 
-<p align="center">📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aroosa.j25@gmail.com" target="_blank">aroosa.j25@gmail.com</a></p>
+
 
 <br/>
 
