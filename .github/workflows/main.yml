@@ -1,150 +1,30 @@
-<div align="center">
+name: generate animated snake
 
-<!-- ==== TOP BANNER (animated, auto-hosted — works immediately, no upload needed) ==== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,100:FF6FA5&height=200&section=header&text=Aroosa%20Jabeen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20UI%20Lover&descAlignY=55&descSize=18" width="100%" alt="banner"/>
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # regenerates every 12 hours
+  workflow_dispatch: {}       # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
 
-<!-- ==== TYPING TITLE ==== -->
-<a href="https://github.com/aroosa02">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=FF7EB6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aroosa+%F0%9F%8C%B8;Software+Engineer+%F0%9F%92%BB;AI+Builder+%F0%9F%A4%96;UI+Lover+%F0%9F%92%96" alt="Typing SVG" />
-</a>
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: aroosa02
+          outputs: |
+            dist/pink-snake.svg?color_snake=%23FF69B4&color_dots=%23FFD1DC,%23FFC0CB,%23FF9EC4,%23FF69B4,%23D6336C
 
-<!-- ==== SOCIAL BADGES ==== -->
-<p>
-  <img src="https://img.shields.io/badge/she%2Fher-FFD1DC?style=for-the-badge&logo=googlegender&logoColor=white" />
-  <img src="https://img.shields.io/badge/status-locking%20in-FF9EC4?style=for-the-badge&logo=nintendoswitch&logoColor=white" />
-  <img src="https://img.shields.io/badge/vibe-pastel%20pink-FFC0CB?style=for-the-badge" />
-</p>
-
-<!-- animated visitor counter — auto-hosted, works immediately -->
-<img src="https://komarev.com/ghpvc/?username=aroosa02&label=Profile%20Views&color=ff9ec4&style=for-the-badge" />
-
-</div>
-
-<br/>
-
-<!-- ==== ABOUT ME ==== -->
-## 🌷 hey there!
-
-<!-- 🔺 UPLOAD NEEDED: replace src with your repo's raw URL once you upload the anime girl sticker to assets/ -->
-<img align="right" width="260" src="assets/anime-girl.png" alt="anime avatar"/>
-
-```yaml
-me:
-  name: Aroosa Jabeen
-  role: Software Engineer
-  passions: [AI, UI/UX, clean code]
-  mood: "she believed she could, so she did 🍒"
-  currently: "🔒 locking in on something new"
-  fun_fact: "I write code, occasionally it works ✨"
-```
-
-- 🔭 Building things, breaking things, learning fast
-- 🌸 Obsessed with making software *and* interfaces feel good to use
-- 🤖 Deep into AI-powered tools and workflows
-- 💌 Reach me — always down to collab on something cute *and* useful
-
-<br clear="right"/>
-
----
-
-## 🧸 my stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,tailwind,figma,git,github,vscode&theme=light" />
-
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=8B0051" />
-<img src="https://img.shields.io/badge/JavaScript-FFD1DC?style=for-the-badge&logo=javascript&logoColor=8B0051" />
-<img src="https://img.shields.io/badge/React-FFC0CB?style=for-the-badge&logo=react&logoColor=8B0051" />
-<img src="https://img.shields.io/badge/Figma-FF9EC4?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
-
----
-
-## 📊 stats & pretty numbers
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aroosa02&show_icons=true&title_color=FF69B4&text_color=8B0051&icon_color=FF9EC4&bg_color=FFF0F5&border_color=FFD1DC&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroosa02&layout=compact&title_color=FF69B4&text_color=8B0051&bg_color=FFF0F5&border_color=FFD1DC&hide_border=false" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aroosa02&theme=default&background=FFF0F5&border=FFD1DC&stroke=FF9EC4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
-
-</div>
-
----
-
-## 💗 little reminders (for me & you)
-
-<!-- 🔺 UPLOAD NEEDED: these 3 cells + the quote image below need your sticker files in assets/ -->
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="assets/sticker-lockingin.png" width="140"/><br/>
-<b>i'm locking in</b>
-</td>
-<td align="center" width="33%">
-<img src="assets/sticker-code.png" width="140"/><br/>
-<b>yes she can code ^_^</b>
-</td>
-<td align="center" width="33%">
-<img src="assets/sticker-document.png" width="140"/><br/>
-<b>document or it didn't happen</b>
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="assets/quote-goodthings.png" width="280"/>
-</div>
-
----
-
-## 🐾 contribution snake (animated!)
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/aroosa02/aroosa02/output/pink-snake.svg" alt="snake animation"/>
-</div>
-
-<p align="center"><i>⚠️ this animates automatically once you add the snake GitHub Action — instructions below in the guide</i></p>
-
----
-
-## 🐈‍⬛ pinned projects
-
-<div align="center">
-
-<a href="https://github.com/aroosa02?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aroosa02&repo=YOUR_REPO_1&title_color=FF69B4&text_color=8B0051&bg_color=FFF0F5&border_color=FFD1DC" />
-</a>
-<a href="https://github.com/aroosa02?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aroosa02&repo=YOUR_REPO_2&title_color=FF69B4&text_color=8B0051&bg_color=FFF0F5&border_color=FFD1DC" />
-</a>
-
-</div>
-
-<p align="center"><i>👆 swap <code>YOUR_REPO_1</code> / <code>YOUR_REPO_2</code> for your actual repo names</i></p>
-
----
-
-## 🎀 let's connect
-
-<div align="center">
-
-<a href="mailto:aroosa.j25@gmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=8B0051"/></a>
-<a href="https://www.linkedin.com/in/aroosaa/"><img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=8B0051"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer"/>
-</div>
-
-<p align="center"><i>thanks for stopping by — good things are coming ✨</i></p>
+      - name: push generated files to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
