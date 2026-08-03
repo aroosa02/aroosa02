@@ -1,152 +1,70 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=14,17,20,24&text=Aroosa%20Jabeen&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%F0%9F%8C%B8%20AI%20Builder%20%F0%9F%A4%96%20UI%20Lover%20%F0%9F%92%96&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=🌸+Building+AI+that+people+actually+love+using;💗+Software+Engineering+Student;🤖+Machine+Learning+Enthusiast;✨+Designing+beautiful+digital+experiences;☕+Probably+debugging+right+now"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24&animation=twinkling&fontColor=ffffff&text=Aroosa%20Jabeen&fontSize=60&fontAlignY=35&desc=AI%20Builder%20🌸%20Software%20Engineer%20💗%20UI%20Enthusiast&descAlignY=58"/>
 
 <br>
 
-<img width="500" src="https://user-images.githubusercontent.com/74038190/240885067-4d14d8f8-540d-4d17-a1d1-8d7bb2dd1d65.gif"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+little+corner+of+GitHub+🌸;Building+beautiful+things+with+AI+🤖;Designing+interfaces+people+love+💗;Always+learning+something+new+✨"/>
 
 </div>
-
----
-
-# 🌷 Hey there!
-
-```python
-class Aroosa:
-
-    def __init__(self):
-
-        self.role = "Software Engineering Student"
-
-        self.location = "Pakistan 🇵🇰"
-
-        self.currently_building = [
-            "AI Applications",
-            "Machine Learning Projects",
-            "Beautiful Frontends",
-            "Full Stack Apps"
-        ]
-
-        self.loves = [
-            "Artificial Intelligence 🤖",
-            "Pretty UI 🌸",
-            "Clean Code ✨",
-            "Coffee ☕",
-            "Learning New Things 📚"
-        ]
-
-    def motto(self):
-        return "Beautiful Design × Smart Logic 💖"
-```
 
 ---
 
 <div align="center">
 
-## ✨ My Little Tech Garden 🌸
+### 🌸 AroOS Desktop
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,react,nodejs,fastapi,flutter,tailwind,mysql,postgres,git,github,vscode,figma"/>
+<img width="750" src="https://i.imgur.com/fkR6M5R.png"/>
 
 </div>
-
----
-
-# 💖 Things I'm Exploring
-
-🌸 Artificial Intelligence
-
-🤖 Machine Learning
-
-💻 Full Stack Development
-
-🎨 UI / UX Design
-
-📊 Data Science
-
-⚡ AI Agents
-
-🧠 Generative AI
 
 ---
 
 <div align="center">
 
-<img width="650" src="https://user-images.githubusercontent.com/74038190/216656986-3d2b7a62-4d2e-4c75-b63f-cff7f34f87ac.gif">
+# 💖 Hello, I'm Aroosa!
+
+*"Building products that are as beautiful as they are intelligent."*
 
 </div>
-
-# 🌸 Featured Projects
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="55%">
 
-## 🏛 WarisNama AI
+## 🌷 About.exe
 
-AI-powered inheritance assistant.
+```python
+class Aroosa:
 
-💖 React • FastAPI • Gemini
+    role = "Software Engineering Student"
 
-🌐 https://warisnama-ai-frontend-wvou.vercel.app
+    loves = [
+        "Artificial Intelligence 🤖",
+        "Frontend Development 💗",
+        "Machine Learning 🌸",
+        "Beautiful UI ✨",
+        "Full Stack Apps 💻"
+    ]
 
-</td>
+    currently = [
+        "Building AI Applications",
+        "Learning AI Systems",
+        "Designing cool interfaces",
+        "Making ideas come alive"
+    ]
 
-<td width="50%">
+    motto = "Pretty UI × Smart Logic"
 
-## 📄 AI Resume Analyzer
-
-AI-powered resume analysis.
-
-✨ Python • Machine Learning
-
-🌐 https://ai-resume-analyzer-production-e96d.up.railway.app
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 🏡 AI Real Estate Estimator
-
-Property valuation using Artificial Intelligence.
-
-🌸 React • Python
-
-🌐 https://ai-real-estate-estimator.vercel.app
+```
 
 </td>
 
 <td>
 
-## 🍗 BBQCom
-
-Restaurant Management System.
-
-💗 Full Stack Application
-
-🌐 https://barbqcom-production.up.railway.app
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2">
-
-## ⚛ React Portfolio
-
-A collection of React experiments & UI projects.
-
-🌐 https://reactapp-rust-eta.vercel.app/
+<img width="260" src="https://media.tenor.com/DimzPZMypFcAAAAC/lofi-girl.gif"/>
 
 </td>
 
@@ -156,76 +74,75 @@ A collection of React experiments & UI projects.
 
 ---
 
-# 🎀 Current Mood
+# 🌸 Quick Access
 
-```text
-🌸 Learning AI Systems...
-██████████████░░░ 88%
+<div align="center">
 
-☕ Coffee
-██████████████████ 100%
+| 💻 | 📂 | ☕ | 🎀 | 🤖 |
+|:--:|:--:|:--:|:--:|:--:|
+| Projects | Skills | Coffee | Aesthetic | AI |
 
-🎨 UI Designing
-█████████████████░ 96%
+</div>
 
-🤖 Building Cool Stuff
-██████████████████ 100%
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216649436-05c6f97b-6f29-4a2d-94e8-4e57c0a8786b.gif">
+
+</div>
+
+# 💻 terminal.exe
+
+```console
+PS C:\Aroosa>
+
+loading profile...
+
+█████████████████████ 100%
+
+✓ AI Builder Loaded
+
+✓ Frontend Developer Loaded
+
+✓ Machine Learning Loaded
+
+✓ Coffee Loaded ☕
+
+Status:
+Currently making something cool...
 ```
 
 ---
 
-# 💗 Things That Make Me Happy
-
-✨ Turning ideas into real products
-
-🌸 Building beautiful interfaces
-
-🤖 Solving problems with AI
-
-📚 Learning something new every week
-
-🎀 Pink themes
-
-☕ Late-night coding sessions
-
----
-
 <div align="center">
 
-<img width="700" src="https://user-images.githubusercontent.com/74038190/216649436-05c6f97b-6f29-4a2d-94e8-4e57c0a8786b.gif">
+## 🌸 Current Mood
 
-</div>
+🩷 Designing
 
-# 🌸 Connect With Me
+🤖 Building
 
-<div align="center">
+☕ Coffee
 
-<a href="https://linkedin.com/in/aroosaa">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
+📚 Learning
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
+✨ Dreaming
 
 </div>
 
 ---
 
-<div align="center">
+# 🌷 My Philosophy
 
-### 💌 A little reminder
-
-*"Every expert was once a beginner who refused to give up."* 🌸
-
-</div>
+> ### "Good software solves problems.
+>
+> ### Great software also makes people smile." 🌸
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=14,17,20,24"/>
+<img width="700" src="https://media.tenor.com/lNtmoshuUI8AAAAC/bocchi-the-rock.gif"/>
 
 </div>
