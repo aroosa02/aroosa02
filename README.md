@@ -39,7 +39,7 @@ me:
   name: Aroosa Jabeen
   role: Software Engineer
   passions: [AI, UI/UX, clean code]
-  mood: "she believed she could, so she did 🍒"
+  mood: "She compiled her vision and executed it perfectly"
   currently: "🔒 locking in on something new"
   fun_fact: "I write code, occasionally it works ✨"
 ```
@@ -94,7 +94,7 @@ me:
 <b>pretty in python</b>
 </td>
 <td align="center" width="33%">
-<img src="cat-headphones.jpg" width="150"/><br/>
+<img src="sticker headphones black _ Me, when someone starts to move the things I�m putting in there hous.jpg" width="150"/><br/>
 <b>me when someone touches my carefully organized chaos 😾</b>
 </td>
 <td align="center" width="33%">
@@ -122,7 +122,7 @@ me:
 
 <div align="center">
 
-<a href="https://barbqcom-production.up.railway.app">
+<a href="https://warisnama-ai-frontend-wvou.vercel.app">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aroosa02&repo=BarBQ.com&title_color=FF69B4&text_color=8B0051&bg_color=FFF0F5&border_color=FFD1DC" />
 </a>
 <a href="https://ai-real-estate-estimator.vercel.app">
@@ -147,7 +147,6 @@ me:
 
 </div>
 
-<p align="center">📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aroosa.j25@gmail.com" target="_blank">aroosa.j25@gmail.com</a></p>
 
 <br/>
 
