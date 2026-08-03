@@ -94,7 +94,7 @@ me:
 <b>pretty in python</b>
 </td>
 <td align="center" width="33%">
-<img src="sticker%20headphones%20black%20_%20Me%2C%20when%20someone%20starts%20to%20move%20the%20things%20I%27m%20putting%20in%20there%20hous.jpg" width="150"/><br/>
+<img src="cat-headphones.jpg" width="150"/><br/>
 <b>me when someone touches my carefully organized chaos 😾</b>
 </td>
 <td align="center" width="33%">
@@ -122,14 +122,19 @@ me:
 
 <div align="center">
 
-<a href="https://github.com/aroosa02/BarBQ.com">
+<a href="https://barbqcom-production.up.railway.app">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aroosa02&repo=BarBQ.com&title_color=FF69B4&text_color=8B0051&bg_color=FFF0F5&border_color=FFD1DC" />
 </a>
-<a href="https://github.com/aroosa02/AI-real-estate-estimator">
+<a href="https://ai-real-estate-estimator.vercel.app">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aroosa02&repo=AI-real-estate-estimator&title_color=FF69B4&text_color=8B0051&bg_color=FFF0F5&border_color=FFD1DC" />
 </a>
 
 </div>
+
+<p align="center">
+<a href="https://barbqcom-production.up.railway.app">🍖 BarBQ.com — live</a> &nbsp;|&nbsp;
+<a href="https://ai-real-estate-estimator.vercel.app">🏠 AI Real Estate Estimator — live</a>
+</p>
 
 ---
 
@@ -137,12 +142,12 @@ me:
 
 <div align="center">
 
-<a href="mailto:aroosa.j25@gmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=8B0051"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=aroosa.j25@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=8B0051"/></a>
 <a href="https://www.linkedin.com/in/aroosaa/"><img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=8B0051"/></a>
 
 </div>
 
-<p align="center">📧 <a href="mailto:aroosa.j25@gmail.com">aroosa.j25@gmail.com</a></p>
+<p align="center">📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aroosa.j25@gmail.com" target="_blank">aroosa.j25@gmail.com</a></p>
 
 <br/>
 
