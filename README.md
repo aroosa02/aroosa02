@@ -118,24 +118,29 @@ me:
 
 ---
 
-## 🐈‍⬛ pinned projects
 
-<div align="center">
+🐈‍⬛ pinned projects
+<table align="center"> <tr> <td width="50%" align="center">
 
-<a href="https://warisnama-ai-frontend-wvou.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aroosa02&repo=BarBQ.com&title_color=FF69B4&text_color=8B0051&bg_color=FFF0F5&border_color=FFD1DC" />
-</a>
-<a href="https://ai-real-estate-estimator.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aroosa02&repo=AI-real-estate-estimator&title_color=FF69B4&text_color=8B0051&bg_color=FFF0F5&border_color=FFD1DC" />
-</a>
+<a href="https://warisnama-ai-frontend-wvou.vercel.app"><b>🌸 Warisnama AI Frontend</b></a>
 
-</div>
+<br/> <img src="https://img.shields.io/github/languages/top/aroosa02/Warisnama-AI-frontend?style=for-the-badge&color=FFC0CB" /> <img src="https://img.shields.io/github/stars/aroosa02/Warisnama-AI-frontend?style=for-the-badge&color=FF9EC4" />
 
-<p align="center">
-<a href="https://barbqcom-production.up.railway.app">🍖 BarBQ.com — live</a> &nbsp;|&nbsp;
-<a href="https://ai-real-estate-estimator.vercel.app">🏠 AI Real Estate Estimator — live</a>
-</p>
+<br/><br/>
 
+<a href="https://warisnama-ai-frontend-wvou.vercel.app">🔗 live demo</a>  •  <a href="https://github.com/aroosa02/Warisnama-AI-frontend">💻 repo</a>
+
+</td> <td width="50%" align="center">
+
+<a href="https://ai-real-estate-estimator.vercel.app"><b>🏠 AI Real Estate Estimator</b></a>
+
+<br/> <img src="https://img.shields.io/github/languages/top/aroosa02/AI-real-estate-estimator?style=for-the-badge&color=FFC0CB" /> <img src="https://img.shields.io/github/stars/aroosa02/AI-real-estate-estimator?style=for-the-badge&color=FF9EC4" />
+
+<br/><br/>
+
+<a href="https://ai-real-estate-estimator.vercel.app">🔗 live demo</a>  •  <a href="https://github.com/aroosa02/AI-real-estate-estimator">💻 repo</a>
+
+</td> </tr> </table>
 ---
 
 ## 🎀 let's connect
