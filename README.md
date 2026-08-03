@@ -19,7 +19,7 @@
 </p>
 </td>
 <td>
-<img src="Pink%20_I'm%20Locking%20In_%20Smiski%20With%20Headphones%20Sticker.jpg" width="70"/>
+<img src="assets/Pink%20_I'm%20Locking%20In_%20Smiski%20With%20Headphones%20Sticker.jpg" width="70"/>
 </td>
 </tr>
 </table>
@@ -31,23 +31,24 @@
 <!-- ==== ABOUT ME ==== -->
 ## 🌷 hey there!
 
-<!-- anime avatar — using your uploaded file. Swap "download (1).jpg" for a different upload if you'd rather use another pose -->
-<img align="right" width="260" src="download%20(1).jpg" alt="anime avatar"/>
+<img align="right" width="260" src="assets/don%27t%20distaab.jpg" alt="anime avatar"/>
 
 ```yaml
 me:
   name: Aroosa Jabeen
   role: Software Engineer
   passions: [AI, UI/UX, clean code]
-  mood: "She compiled her vision and executed it perfectly"
+  mood: "she compiled her vision and executed it perfectly"
   currently: "🔒 locking in on something new"
   fun_fact: "I write code, occasionally it works ✨"
 ```
 
-- 🔭 Building things, breaking things, learning fast
-- 🌸 Obsessed with making software *and* interfaces feel good to use
-- 🤖 Deep into AI-powered tools and workflows
-- 💌 Reach me — always down to collab on something cute *and* useful
+<br/>
+
+- 🔭 &nbsp;Building things, breaking things, learning fast
+- 🌸 &nbsp;Obsessed with making software *and* interfaces feel good to use
+- 🤖 &nbsp;Deep into AI-powered tools and workflows
+- 💌 &nbsp;Reach me — always down to collab on something cute *and* useful
 
 <br clear="right"/>
 
@@ -74,12 +75,9 @@ me:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aroosa02&show_icons=true&title_color=FF69B4&text_color=8B0051&icon_color=FF9EC4&bg_color=FFF0F5&border_color=FFD1DC&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroosa02&layout=compact&title_color=FF69B4&text_color=8B0051&bg_color=FFF0F5&border_color=FFD1DC&hide_border=false" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aroosa02&theme=default&background=FFF0F5&border=FFD1DC&stroke=FF9EC4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
+<img src="https://img.shields.io/github/followers/aroosa02?style=for-the-badge&color=FF9EC4&logo=github&logoColor=white&label=followers" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=FFC0CB&label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faroosa02" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=FFD1DC&label=account%20age&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faroosa02" />
 
 </div>
 
@@ -90,22 +88,22 @@ me:
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="Pretty%20In%20Python%20Girly%20Aesthetic%20Sticker.jpg" width="150"/><br/>
+<img src="assets/Pretty%20In%20Python%20Girly%20Aesthetic%20Sticker.jpg" width="150"/><br/>
 <b>pretty in python</b>
 </td>
 <td align="center" width="33%">
-<img src="sticker headphones black _ Me, when someone starts to move the things I�m putting in there hous.jpg" width="150"/><br/>
+<img src="assets/sticker%20headphones%20black%20_%20Me%2C%20when%20someone%20starts%20to%20move%20the%20things%20I%27m%20putting%20in%20there%20hous.jpg" width="150"/><br/>
 <b>me when someone touches my carefully organized chaos 😾</b>
 </td>
 <td align="center" width="33%">
-<img src="download%20(2).jpg" width="150"/><br/>
+<img src="assets/flex.jpg" width="150"/><br/>
 <b>yes she can code ^_^</b>
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="Good%20things%20are%20coming.jpg" width="280"/>
+<img src="assets/Good%20things%20are%20coming.jpg" width="280"/>
 </div>
 
 ---
@@ -118,29 +116,43 @@ me:
 
 ---
 
+## 🐈‍⬛ pinned projects
 
-🐈‍⬛ pinned projects
-<table align="center"> <tr> <td width="50%" align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
 <a href="https://warisnama-ai-frontend-wvou.vercel.app"><b>🌸 Warisnama AI Frontend</b></a>
 
-<br/> <img src="https://img.shields.io/github/languages/top/aroosa02/Warisnama-AI-frontend?style=for-the-badge&color=FFC0CB" /> <img src="https://img.shields.io/github/stars/aroosa02/Warisnama-AI-frontend?style=for-the-badge&color=FF9EC4" />
+<br/>
+
+<img src="https://img.shields.io/github/languages/top/aroosa02/Warisnama-AI-frontend?style=for-the-badge&color=FFC0CB" />
+<img src="https://img.shields.io/github/stars/aroosa02/Warisnama-AI-frontend?style=for-the-badge&color=FF9EC4" />
 
 <br/><br/>
 
-<a href="https://warisnama-ai-frontend-wvou.vercel.app">🔗 live demo</a>  •  <a href="https://github.com/aroosa02/Warisnama-AI-frontend">💻 repo</a>
+<a href="https://warisnama-ai-frontend-wvou.vercel.app">🔗 live demo</a> &nbsp;•&nbsp;
+<a href="https://github.com/aroosa02/Warisnama-AI-frontend">💻 repo</a>
 
-</td> <td width="50%" align="center">
+</td>
+<td width="50%" align="center">
 
 <a href="https://ai-real-estate-estimator.vercel.app"><b>🏠 AI Real Estate Estimator</b></a>
 
-<br/> <img src="https://img.shields.io/github/languages/top/aroosa02/AI-real-estate-estimator?style=for-the-badge&color=FFC0CB" /> <img src="https://img.shields.io/github/stars/aroosa02/AI-real-estate-estimator?style=for-the-badge&color=FF9EC4" />
+<br/>
+
+<img src="https://img.shields.io/github/languages/top/aroosa02/AI-real-estate-estimator?style=for-the-badge&color=FFC0CB" />
+<img src="https://img.shields.io/github/stars/aroosa02/AI-real-estate-estimator?style=for-the-badge&color=FF9EC4" />
 
 <br/><br/>
 
-<a href="https://ai-real-estate-estimator.vercel.app">🔗 live demo</a>  •  <a href="https://github.com/aroosa02/AI-real-estate-estimator">💻 repo</a>
+<a href="https://ai-real-estate-estimator.vercel.app">🔗 live demo</a> &nbsp;•&nbsp;
+<a href="https://github.com/aroosa02/AI-real-estate-estimator">💻 repo</a>
 
-</td> </tr> </table>
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🎀 let's connect
@@ -152,6 +164,7 @@ me:
 
 </div>
 
+<p align="center">📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aroosa.j25@gmail.com" target="_blank">aroosa.j25@gmail.com</a></p>
 
 <br/>
 
