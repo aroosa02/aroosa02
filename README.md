@@ -1,8 +1,7 @@
 <div align="center">
 
-<!-- ==== TOP BANNER ==== -->
-<!-- Replace the src below with your own hosted image (e.g. assets/banner.png in this repo) -->
-<img src="assets/banner.png" width="100%" alt="banner"/>
+<!-- ==== TOP BANNER (animated, auto-hosted — works immediately, no upload needed) ==== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,100:FF6FA5&height=200&section=header&text=Aroosa%20Jabeen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20UI%20Lover&descAlignY=55&descSize=18" width="100%" alt="banner"/>
 
 <!-- ==== TYPING TITLE ==== -->
 <a href="https://github.com/aroosa02">
@@ -16,6 +15,9 @@
   <img src="https://img.shields.io/badge/vibe-pastel%20pink-FFC0CB?style=for-the-badge" />
 </p>
 
+<!-- animated visitor counter — auto-hosted, works immediately -->
+<img src="https://komarev.com/ghpvc/?username=aroosa02&label=Profile%20Views&color=ff9ec4&style=for-the-badge" />
+
 </div>
 
 <br/>
@@ -23,7 +25,8 @@
 <!-- ==== ABOUT ME ==== -->
 ## 🌷 hey there!
 
-<img align="right" width="260" src="assets/anime-girl.png" alt="anime avatar"/>
+<!-- anime avatar — using your uploaded file. Swap "download (1).jpg" for a different upload if you'd rather use another pose -->
+<img align="right" width="260" src="download%20(1).jpg" alt="anime avatar"/>
 
 ```yaml
 me:
@@ -78,25 +81,34 @@ me:
 
 ## 💗 little reminders (for me & you)
 
+<!-- these now point at your actual uploaded files in the repo root -->
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="assets/sticker-lockingin.png" width="140"/><br/>
+<img src="Pink%20_I'm%20Locking%20In_%20Smiski%20With%20Headphones%20Sticker.jpg" width="140"/><br/>
 <b>i'm locking in</b>
 </td>
 <td align="center" width="33%">
-<img src="assets/sticker-code.png" width="140"/><br/>
+<img src="download%20(2).jpg" width="140"/><br/>
 <b>yes she can code ^_^</b>
 </td>
 <td align="center" width="33%">
-<img src="assets/sticker-document.png" width="140"/><br/>
+<img src="Document%20or%20it%20didn't%20happen%20sticker.jpg" width="140"/><br/>
 <b>document or it didn't happen</b>
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="assets/quote-goodthings.png" width="280"/>
+<img src="Good%20things%20are%20coming.jpg" width="280"/>
+</div>
+
+---
+
+## 🐾 contribution snake (animated!)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/aroosa02/aroosa02/output/pink-snake.svg" alt="snake animation"/>
 </div>
 
 ---
@@ -122,9 +134,8 @@ me:
 
 <div align="center">
 
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=8B0051"/></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=8B0051"/></a>
-<a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-FFD1DC?style=for-the-badge&logo=twitter&logoColor=8B0051"/></a>
+<a href="mailto:aroosa.j25@gmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=8B0051"/></a>
+<a href="https://www.linkedin.com/in/aroosaa/"><img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=8B0051"/></a>
 
 </div>
 
