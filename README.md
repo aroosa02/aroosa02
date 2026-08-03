@@ -8,15 +8,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=FF7EB6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aroosa+%F0%9F%8C%B8;Software+Engineer+%F0%9F%92%BB;AI+Builder+%F0%9F%A4%96;UI+Lover+%F0%9F%92%96" alt="Typing SVG" />
 </a>
 
-<!-- ==== SOCIAL BADGES ==== -->
+<!-- ==== SOCIAL BADGES + LOCKING IN STICKER BESIDE BANNER ==== -->
+<table>
+<tr>
+<td>
 <p>
   <img src="https://img.shields.io/badge/she%2Fher-FFD1DC?style=for-the-badge&logo=googlegender&logoColor=white" />
   <img src="https://img.shields.io/badge/status-locking%20in-FF9EC4?style=for-the-badge&logo=nintendoswitch&logoColor=white" />
   <img src="https://img.shields.io/badge/vibe-pastel%20pink-FFC0CB?style=for-the-badge" />
 </p>
-
-<!-- animated visitor counter — auto-hosted, works immediately -->
-<img src="https://komarev.com/ghpvc/?username=aroosa02&label=Profile%20Views&color=ff9ec4&style=for-the-badge" />
+</td>
+<td>
+<img src="Pink%20_I'm%20Locking%20In_%20Smiski%20With%20Headphones%20Sticker.jpg" width="70"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -79,22 +85,21 @@ me:
 
 ---
 
-## 💗 little reminders (for me & you)
+## 💗 mood board
 
-<!-- these now point at your actual uploaded files in the repo root -->
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="Pink%20_I'm%20Locking%20In_%20Smiski%20With%20Headphones%20Sticker.jpg" width="140"/><br/>
-<b>i'm locking in</b>
+<img src="Pretty%20In%20Python%20Girly%20Aesthetic%20Sticker.jpg" width="150"/><br/>
+<b>pretty in python</b>
 </td>
 <td align="center" width="33%">
-<img src="download%20(2).jpg" width="140"/><br/>
+<img src="sticker%20headphones%20black%20_%20Me%2C%20when%20someone%20starts%20to%20move%20the%20things%20I%27m%20putting%20in%20there%20hous.jpg" width="150"/><br/>
+<b>me when someone touches my carefully organized chaos 😾</b>
+</td>
+<td align="center" width="33%">
+<img src="download%20(2).jpg" width="150"/><br/>
 <b>yes she can code ^_^</b>
-</td>
-<td align="center" width="33%">
-<img src="Document%20or%20it%20didn't%20happen%20sticker.jpg" width="140"/><br/>
-<b>document or it didn't happen</b>
 </td>
 </tr>
 </table>
@@ -117,16 +122,14 @@ me:
 
 <div align="center">
 
-<a href="https://github.com/aroosa02?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aroosa02&repo=YOUR_REPO_1&title_color=FF69B4&text_color=8B0051&bg_color=FFF0F5&border_color=FFD1DC" />
+<a href="https://github.com/aroosa02/BarBQ.com">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aroosa02&repo=BarBQ.com&title_color=FF69B4&text_color=8B0051&bg_color=FFF0F5&border_color=FFD1DC" />
 </a>
-<a href="https://github.com/aroosa02?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aroosa02&repo=YOUR_REPO_2&title_color=FF69B4&text_color=8B0051&bg_color=FFF0F5&border_color=FFD1DC" />
+<a href="https://github.com/aroosa02/AI-real-estate-estimator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aroosa02&repo=AI-real-estate-estimator&title_color=FF69B4&text_color=8B0051&bg_color=FFF0F5&border_color=FFD1DC" />
 </a>
 
 </div>
-
-<p align="center"><i>👆 swap <code>YOUR_REPO_1</code> / <code>YOUR_REPO_2</code> for your actual repo names</i></p>
 
 ---
 
@@ -138,6 +141,8 @@ me:
 <a href="https://www.linkedin.com/in/aroosaa/"><img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=8B0051"/></a>
 
 </div>
+
+<p align="center">📧 <a href="mailto:aroosa.j25@gmail.com">aroosa.j25@gmail.com</a></p>
 
 <br/>
 
