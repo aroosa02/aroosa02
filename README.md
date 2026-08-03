@@ -1,75 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=Aroosa%20Jabeen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Explorer%20•%20Building%20Ideas%20Into%20Reality&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=14,17,20,24&text=Aroosa%20Jabeen&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%F0%9F%8C%B8%20AI%20Builder%20%F0%9F%A4%96%20UI%20Lover%20%F0%9F%92%96&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+Cool+Things+With+Code+%F0%9F%92%96;Always+Learning+Something+New+%F0%9F%8C%B8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=🌸+Building+AI+that+people+actually+love+using;💗+Software+Engineering+Student;🤖+Machine+Learning+Enthusiast;✨+Designing+beautiful+digital+experiences;☕+Probably+debugging+right+now"/>
+
+<br>
+
+<img width="500" src="https://user-images.githubusercontent.com/74038190/240885067-4d14d8f8-540d-4d17-a1d1-8d7bb2dd1d65.gif"/>
 
 </div>
 
 ---
 
-## 🌷 About Me
+# 🌷 Hey there!
 
-```yaml
-name: Aroosa Jabeen
+```python
+class Aroosa:
 
-education:
-  - BS Software Engineering
-  - COMSATS University Islamabad
+    def __init__(self):
 
-currently:
-  - Building AI-powered applications
-  - Exploring Machine Learning
-  - Learning System Design
-  - Designing beautiful user experiences
+        self.role = "Software Engineering Student"
 
-interests:
-  - Artificial Intelligence
-  - Full Stack Development
-  - Data Science
-  - Human-Centered Design
-  - AI Governance
+        self.location = "Pakistan 🇵🇰"
 
-fun_fact:
-  "If it looks pretty AND works well...
-   I'm happy."
+        self.currently_building = [
+            "AI Applications",
+            "Machine Learning Projects",
+            "Beautiful Frontends",
+            "Full Stack Apps"
+        ]
+
+        self.loves = [
+            "Artificial Intelligence 🤖",
+            "Pretty UI 🌸",
+            "Clean Code ✨",
+            "Coffee ☕",
+            "Learning New Things 📚"
+        ]
+
+    def motto(self):
+        return "Beautiful Design × Smart Logic 💖"
 ```
 
 ---
 
-# 💻 Tech Stack
-
 <div align="center">
 
-### Languages
+## ✨ My Little Tech Garden 🌸
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,dart,html,css,sql"/>
-
-### Frameworks
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flutter,vite,tailwind"/>
-
-### AI / Data
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn"/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,react,nodejs,fastapi,flutter,tailwind,mysql,postgres,git,github,vscode,figma"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 💖 Things I'm Exploring
+
+🌸 Artificial Intelligence
+
+🤖 Machine Learning
+
+💻 Full Stack Development
+
+🎨 UI / UX Design
+
+📊 Data Science
+
+⚡ AI Agents
+
+🧠 Generative AI
+
+---
+
+<div align="center">
+
+<img width="650" src="https://user-images.githubusercontent.com/74038190/216656986-3d2b7a62-4d2e-4c75-b63f-cff7f34f87ac.gif">
+
+</div>
+
+# 🌸 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%">
@@ -77,6 +89,8 @@ fun_fact:
 ## 🏛 WarisNama AI
 
 AI-powered inheritance assistant.
+
+💖 React • FastAPI • Gemini
 
 🌐 https://warisnama-ai-frontend-wvou.vercel.app
 
@@ -86,7 +100,9 @@ AI-powered inheritance assistant.
 
 ## 📄 AI Resume Analyzer
 
-Analyze resumes using AI.
+AI-powered resume analysis.
+
+✨ Python • Machine Learning
 
 🌐 https://ai-resume-analyzer-production-e96d.up.railway.app
 
@@ -100,7 +116,9 @@ Analyze resumes using AI.
 
 ## 🏡 AI Real Estate Estimator
 
-Property valuation powered by AI.
+Property valuation using Artificial Intelligence.
+
+🌸 React • Python
 
 🌐 https://ai-real-estate-estimator.vercel.app
 
@@ -108,9 +126,11 @@ Property valuation powered by AI.
 
 <td>
 
-## 🍽 BBQCom
+## 🍗 BBQCom
 
-Restaurant management system.
+Restaurant Management System.
+
+💗 Full Stack Application
 
 🌐 https://barbqcom-production.up.railway.app
 
@@ -124,7 +144,9 @@ Restaurant management system.
 
 ## ⚛ React Portfolio
 
-https://reactapp-rust-eta.vercel.app/
+A collection of React experiments & UI projects.
+
+🌐 https://reactapp-rust-eta.vercel.app/
 
 </td>
 
@@ -134,74 +156,76 @@ https://reactapp-rust-eta.vercel.app/
 
 ---
 
-# 📊 GitHub Analytics
+# 🎀 Current Mood
 
-<p align="center">
+```text
+🌸 Learning AI Systems...
+██████████████░░░ 88%
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aroosa02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+☕ Coffee
+██████████████████ 100%
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroosa02&layout=compact&theme=tokyonight&hide_border=true"/>
+🎨 UI Designing
+█████████████████░ 96%
 
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=aroosa02&theme=tokyonight&hide_border=true"/>
-
-</p>
+🤖 Building Cool Stuff
+██████████████████ 100%
+```
 
 ---
 
-# 📈 Contribution Graph
+# 💗 Things That Make Me Happy
 
-<p align="center">
+✨ Turning ideas into real products
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aroosa02&theme=tokyo-night&hide_border=true&area=true"/>
+🌸 Building beautiful interfaces
 
-</p>
+🤖 Solving problems with AI
 
----
+📚 Learning something new every week
 
-# 🌸 Connect With Me
+🎀 Pink themes
 
-<p align="center">
-
-<a href="https://linkedin.com/in/aroosaa">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=aroosa02&style=for-the-badge&color=ff69b4"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
+☕ Late-night coding sessions
 
 ---
 
 <div align="center">
 
-### ✨ *Turning ideas into products, one commit at a time.*
+<img width="700" src="https://user-images.githubusercontent.com/74038190/216649436-05c6f97b-6f29-4a2d-94e8-4e57c0a8786b.gif">
 
-⭐ If you like my work, consider giving a star!
+</div>
+
+# 🌸 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/aroosaa">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💌 A little reminder
+
+*"Every expert was once a beginner who refused to give up."* 🌸
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=14,17,20,24"/>
 
 </div>
