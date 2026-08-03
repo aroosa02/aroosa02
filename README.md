@@ -1,148 +1,137 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24&animation=twinkling&fontColor=ffffff&text=Aroosa%20Jabeen&fontSize=60&fontAlignY=35&desc=AI%20Builder%20🌸%20Software%20Engineer%20💗%20UI%20Enthusiast&descAlignY=58"/>
+<!-- ==== TOP BANNER ==== -->
+<!-- Replace the src below with your own hosted image (e.g. assets/banner.png in this repo) -->
+<img src="assets/banner.png" width="100%" alt="banner"/>
 
-<br>
+<!-- ==== TYPING TITLE ==== -->
+<a href="https://github.com/aroosa02">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=FF7EB6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aroosa+%F0%9F%8C%B8;Software+Engineer+%F0%9F%92%BB;AI+Builder+%F0%9F%A4%96;UI+Lover+%F0%9F%92%96" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+little+corner+of+GitHub+🌸;Building+beautiful+things+with+AI+🤖;Designing+interfaces+people+love+💗;Always+learning+something+new+✨"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌸 AroOS Desktop
-
-<img width="750" src="https://i.imgur.com/fkR6M5R.png"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 💖 Hello, I'm Aroosa!
-
-*"Building products that are as beautiful as they are intelligent."*
+<!-- ==== SOCIAL BADGES ==== -->
+<p>
+  <img src="https://img.shields.io/badge/she%2Fher-FFD1DC?style=for-the-badge&logo=googlegender&logoColor=white" />
+  <img src="https://img.shields.io/badge/status-locking%20in-FF9EC4?style=for-the-badge&logo=nintendoswitch&logoColor=white" />
+  <img src="https://img.shields.io/badge/vibe-pastel%20pink-FFC0CB?style=for-the-badge" />
+</p>
 
 </div>
 
-<table>
+<br/>
 
-<tr>
+<!-- ==== ABOUT ME ==== -->
+## 🌷 hey there!
 
-<td width="55%">
+<img align="right" width="260" src="assets/anime-girl.png" alt="anime avatar"/>
 
-## 🌷 About.exe
-
-```python
-class Aroosa:
-
-    role = "Software Engineering Student"
-
-    loves = [
-        "Artificial Intelligence 🤖",
-        "Frontend Development 💗",
-        "Machine Learning 🌸",
-        "Beautiful UI ✨",
-        "Full Stack Apps 💻"
-    ]
-
-    currently = [
-        "Building AI Applications",
-        "Learning AI Systems",
-        "Designing cool interfaces",
-        "Making ideas come alive"
-    ]
-
-    motto = "Pretty UI × Smart Logic"
-
+```yaml
+me:
+  name: Aroosa Jabeen
+  role: Software Engineer
+  passions: [AI, UI/UX, clean code]
+  mood: "she believed she could, so she did 🍒"
+  currently: "🔒 locking in on something new"
+  fun_fact: "I write code, occasionally it works ✨"
 ```
 
+- 🔭 Building things, breaking things, learning fast
+- 🌸 Obsessed with making software *and* interfaces feel good to use
+- 🤖 Deep into AI-powered tools and workflows
+- 💌 Reach me — always down to collab on something cute *and* useful
+
+<br clear="right"/>
+
+---
+
+## 🧸 my stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,tailwind,figma,git,github,vscode&theme=light" />
+
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=8B0051" />
+<img src="https://img.shields.io/badge/JavaScript-FFD1DC?style=for-the-badge&logo=javascript&logoColor=8B0051" />
+<img src="https://img.shields.io/badge/React-FFC0CB?style=for-the-badge&logo=react&logoColor=8B0051" />
+<img src="https://img.shields.io/badge/Figma-FF9EC4?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+---
+
+## 📊 stats & pretty numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aroosa02&show_icons=true&title_color=FF69B4&text_color=8B0051&icon_color=FF9EC4&bg_color=FFF0F5&border_color=FFD1DC&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroosa02&layout=compact&title_color=FF69B4&text_color=8B0051&bg_color=FFF0F5&border_color=FFD1DC&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aroosa02&theme=default&background=FFF0F5&border=FFD1DC&stroke=FF9EC4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
+
+</div>
+
+---
+
+## 💗 little reminders (for me & you)
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="assets/sticker-lockingin.png" width="140"/><br/>
+<b>i'm locking in</b>
 </td>
-
-<td>
-
-<img width="260" src="https://media.tenor.com/DimzPZMypFcAAAAC/lofi-girl.gif"/>
-
+<td align="center" width="33%">
+<img src="assets/sticker-code.png" width="140"/><br/>
+<b>yes she can code ^_^</b>
 </td>
-
+<td align="center" width="33%">
+<img src="assets/sticker-document.png" width="140"/><br/>
+<b>document or it didn't happen</b>
+</td>
 </tr>
-
 </table>
 
----
-
-# 🌸 Quick Access
-
 <div align="center">
-
-| 💻 | 📂 | ☕ | 🎀 | 🤖 |
-|:--:|:--:|:--:|:--:|:--:|
-| Projects | Skills | Coffee | Aesthetic | AI |
-
+<img src="assets/quote-goodthings.png" width="280"/>
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216649436-05c6f97b-6f29-4a2d-94e8-4e57c0a8786b.gif">
-
-</div>
-
-# 💻 terminal.exe
-
-```console
-PS C:\Aroosa>
-
-loading profile...
-
-█████████████████████ 100%
-
-✓ AI Builder Loaded
-
-✓ Frontend Developer Loaded
-
-✓ Machine Learning Loaded
-
-✓ Coffee Loaded ☕
-
-Status:
-Currently making something cool...
-```
-
----
+## 🐈‍⬛ pinned projects
 
 <div align="center">
 
-## 🌸 Current Mood
-
-🩷 Designing
-
-🤖 Building
-
-☕ Coffee
-
-📚 Learning
-
-✨ Dreaming
+<a href="https://github.com/aroosa02?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aroosa02&repo=YOUR_REPO_1&title_color=FF69B4&text_color=8B0051&bg_color=FFF0F5&border_color=FFD1DC" />
+</a>
+<a href="https://github.com/aroosa02?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aroosa02&repo=YOUR_REPO_2&title_color=FF69B4&text_color=8B0051&bg_color=FFF0F5&border_color=FFD1DC" />
+</a>
 
 </div>
 
----
-
-# 🌷 My Philosophy
-
-> ### "Good software solves problems.
->
-> ### Great software also makes people smile." 🌸
+<p align="center"><i>👆 swap <code>YOUR_REPO_1</code> / <code>YOUR_REPO_2</code> for your actual repo names</i></p>
 
 ---
+
+## 🎀 let's connect
 
 <div align="center">
 
-<img width="700" src="https://media.tenor.com/lNtmoshuUI8AAAAC/bocchi-the-rock.gif"/>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=8B0051"/></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=8B0051"/></a>
+<a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-FFD1DC?style=for-the-badge&logo=twitter&logoColor=8B0051"/></a>
 
 </div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer"/>
+</div>
+
+<p align="center"><i>thanks for stopping by — good things are coming ✨</i></p>
