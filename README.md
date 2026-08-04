@@ -43,6 +43,7 @@ me:
   fun_fact: "I write code, occasionally it works ✨"
 ```
 
+I’ll be happy to receive any feedback or code reviews that can help me improve 💪
 <br/>
 
 - 🔭 &nbsp;Building things, breaking things, learning fast
