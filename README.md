@@ -51,7 +51,7 @@ me:
 - 🤖 &nbsp;Deep into AI-powered tools and workflows
 - 💌 &nbsp;Reach me — always down to collab on something cute *and* useful
 
-  I’ll be happy to receive any feedback or code reviews that can help me improve 💪
+  <b> I’ll be happy to receive any feedback or code reviews that can help me improve 💪<b>
 
 <br clear="right"/>
 
