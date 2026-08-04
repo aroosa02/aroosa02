@@ -43,15 +43,12 @@ me:
   fun_fact: "I write code, occasionally it works ✨"
 ```
 
-
 <br/>
 
 - 🔭 &nbsp;Building things, breaking things, learning fast
 - 🌸 &nbsp;Obsessed with making software *and* interfaces feel good to use
 - 🤖 &nbsp;Deep into AI-powered tools and workflows
 - 💌 &nbsp;Reach me — always down to collab on something cute *and* useful
-
-  
 
 <br clear="right"/>
 
@@ -167,7 +164,11 @@ me:
 
 </div>
 
-<b> I’ll be happy to receive any feedback or code reviews that can help me improve 💪<b>
+
+
+<p align="center">
+<img src="assets/feedback-text.svg" alt="I'll be happy to receive any feedback or code reviews that can help me improve" />
+</p>
 
 <br/>
 
