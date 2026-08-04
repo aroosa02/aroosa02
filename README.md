@@ -43,15 +43,12 @@ me:
   fun_fact: "I write code, occasionally it works ✨"
 ```
 
-
 <br/>
 
 - 🔭 &nbsp;Building things, breaking things, learning fast
 - 🌸 &nbsp;Obsessed with making software *and* interfaces feel good to use
 - 🤖 &nbsp;Deep into AI-powered tools and workflows
 - 💌 &nbsp;Reach me — always down to collab on something cute *and* useful
-
-  <b> I’ll be happy to receive any feedback or code reviews that can help me improve 💪<b>
 
 <br clear="right"/>
 
@@ -167,7 +164,7 @@ me:
 
 </div>
 
-
+<p align="center">📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aroosa.j25@gmail.com" target="_blank">aroosa.j25@gmail.com</a></p>
 
 <br/>
 
