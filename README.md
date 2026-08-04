@@ -73,11 +73,7 @@ me:
 
 ## 📊 stats & pretty numbers
  
-<div align="center">
-<img src="https://img.shields.io/github/followers/aroosa02?style=for-the-badge&color=FF9EC4&logo=github&logoColor=white&label=followers" />
-<img src="https://img.shields.io/github/stars/aroosa02/Warisnama-AI-frontend?style=for-the-badge&color=FFC0CB&label=warisnama%20stars" />
-<img src="https://img.shields.io/github/stars/aroosa02/AI-real-estate-estimator?style=for-the-badge&color=FFD1DC&label=estimator%20stars" />
-  
+<div align="center"> <img src="https://img.shields.io/github/followers/aroosa02?style=for-the-badge&color=FF9EC4&logo=github&logoColor=white&label=followers" /><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=FFC0CB&label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faroosa02" /><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=FFD1DC&label=account%20age&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faroosa02" />
 </div>
 
 ---
